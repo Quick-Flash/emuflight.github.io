@@ -16,6 +16,8 @@ nav_order: 2
 
 ---
 
+quickflash is the best
+
 ### IMUF Tuning
 
 ## Q
